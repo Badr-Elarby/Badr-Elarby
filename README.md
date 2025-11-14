@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Badr Elarby 👋</h1>
+<h3 align="center">Flutter Developer | Clean Architecture | Mobile Apps</h3>
 
-<!--
-**Badr-Elarby/Badr-Elarby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Computer Science Graduate – Ain Shams University  
+- 📱 Flutter Developer with 1+ year building production-ready apps  
+- 🧩 Clean Architecture (Cubit), REST APIs, Firebase, CI/CD, Payments, Maps  
+- 🔥 Passionate about performance, clean code, and scalable features  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+**Languages:** Dart, Java (basic), C++  
+**Frameworks:** Flutter (Cubit/Bloc)  
+**Tools:** Firebase, Supabase, Dio, Hive, Fastlane, Git, GitHub  
+**Other:** Deep Linking, Payments, Google Maps, Caching, Theming
+
+---
+
+### 📂 Featured Projects
+
+#### 🎓 Edura Academy – E-Learning Platform
+Multi-role app (Student/Instructor/Admin), with payments, dashboards, caching & video player.  
+👉 [GitHub Repo](#) | 👉 [Live Demo](https://drive.google.com/file/d/1y7a7zI0p6dYSqzbEV21csaCFKAt1t9Vp/view)
+
+#### 🛒 Laza – E-Commerce App
+Full e-commerce experience: cart, wishlist, checkout, payments, Google Maps + Clean Architecture.  
+👉 [GitHub Repo](https://github.com/Badr-Elarby/Badr-Elarby-Week-3-Ecommerce-App-Laza-) | 👉 [Live Demo](https://drive.google.com/file/d/1yTzZuM5Az1ocKJldPcXvl_OPvz3w2q10/view)
+
+#### 🎬 Movie App
+Offline caching (Hive), Crashlytics, infinite scrolling, Clean Architecture, Cubit.  
+👉 [GitHub Repo](https://github.com/Badr-Elarby/movie_app) | 👉 [Live Demo](https://drive.google.com/file/d/1FVDQqMCsR6Gj-8YGcxesHmqOCnD2mY15/view)
+
+---
+
+### 📫 Connect with me
+- 📧 Email: badrshahd291@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/badrelarby1  
+- 💻 Portfolio: https://badr-portfolio.vercel.app  
+- 🔗 GitHub: https://github.com/badr-elarby
+
+---
+
+⭐️ From **Badr Elarby**
+>
