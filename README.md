@@ -38,7 +38,7 @@ Offline caching (Hive), Crashlytics, infinite scrolling, Clean Architecture, Cub
 ### 📫 Connect with me
 - 📧 Email: badrshahd291@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/badrelarby1  
-- 💻 Portfolio: https://badr-portfolio.vercel.app  
+- 💻 Portfolio:  
 - 🔗 GitHub: https://github.com/badr-elarby
 
 ---
