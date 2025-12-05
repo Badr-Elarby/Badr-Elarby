@@ -33,13 +33,14 @@ Full e-commerce experience: cart, wishlist, checkout, payments, Google Maps + Cl
 Offline caching (Hive), Crashlytics, infinite scrolling, Clean Architecture, Cubit.  
 👉 [GitHub Repo](https://github.com/Badr-Elarby/movie_app) | 👉 [Live Demo](https://drive.google.com/file/d/1FVDQqMCsR6Gj-8YGcxesHmqOCnD2mY15/view)
 
+#### 🐱 PetFinder App
+PetFinder is a Flutter app that lets users browse, search, and save cat profiles using The Cat API, built with Clean Architecture, BLoC, Dio, GoRouter, and local storage for favorites.
+👉 [GitHub Repo](https://github.com/Badr-Elarby/Badr-Elarby-Week-4-PetFinder_app) 
+
 #### 📇 Shake To Quote App
 A simple Flutter app that shows a random motivational quote and updates it when the user shakes their phone, using Android native shake detection through a Flutter Platform Channel.
 👉 [GitHub Repo](https://github.com/Badr-Elarby/shake_to_quote_app) 
 
-#### 🐱 PetFinder App
-PetFinder is a Flutter app that lets users browse, search, and save cat profiles using The Cat API, built with Clean Architecture, BLoC, Dio, GoRouter, and local storage for favorites.
-👉 [GitHub Repo](https://github.com/Badr-Elarby/Badr-Elarby-Week-4-PetFinder_app) 
 
 
 ---
