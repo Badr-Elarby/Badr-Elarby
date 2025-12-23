@@ -35,7 +35,7 @@ Offline caching (Hive), Crashlytics, infinite scrolling, Clean Architecture, Cub
 
 #### 🪙 CoinFlow App
 A modern Flutter-based cryptocurrency app for tracking market data, managing portfolios, and exploring real-time crypto insights.
-👉 [GitHub Repo](https://github.com/Badr-Elarby/CoinFlow) 
+ 👉 [GitHub Repo](https://github.com/Badr-Elarby/CoinFlow) 
 
 #### 🐱 PetFinder App
 PetFinder is a Flutter app that lets users browse, search, and save cat profiles using The Cat API, built with Clean Architecture, BLoC, Dio, GoRouter, and local storage for favorites.
