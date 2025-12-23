@@ -33,6 +33,10 @@ Full e-commerce experience: cart, wishlist, checkout, payments, Google Maps + Cl
 Offline caching (Hive), Crashlytics, infinite scrolling, Clean Architecture, Cubit.  
 👉 [GitHub Repo](https://github.com/Badr-Elarby/movie_app) | 👉 [Live Demo](https://drive.google.com/file/d/1FVDQqMCsR6Gj-8YGcxesHmqOCnD2mY15/view)
 
+#### 🪙 CoinFlow App
+A modern Flutter-based cryptocurrency app for tracking market data, managing portfolios, and exploring real-time crypto insights.
+👉 [GitHub Repo](https://github.com/Badr-Elarby/CoinFlow) 
+
 #### 🐱 PetFinder App
 PetFinder is a Flutter app that lets users browse, search, and save cat profiles using The Cat API, built with Clean Architecture, BLoC, Dio, GoRouter, and local storage for favorites.
 👉 [GitHub Repo](https://github.com/Badr-Elarby/Badr-Elarby-Week-4-PetFinder_app) 
