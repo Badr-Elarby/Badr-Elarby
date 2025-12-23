@@ -15,7 +15,7 @@
 **Languages:** Dart, Java (basic), C++  
 **Frameworks:** Flutter (Cubit/Bloc)  
 **Tools:** Firebase, Supabase, Dio, Hive, Fastlane, Git, GitHub  
-**Other:** Deep Linking, Payments, Google Maps, Caching, Theming
+**Other:** Deep Linking, Payments, Google Maps, Caching, Theming, Google Play Store Deployment
 
 ---
 
